@@ -1,10 +1,8 @@
-import React from 'react'
+import Body from "./Components/Body"
 
 const App = () => {
   return (
-    <div>
-      Hello
-    </div>
+    <Body />
   )
 }
 
